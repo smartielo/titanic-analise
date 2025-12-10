@@ -21,7 +21,6 @@ Utilizamos um algoritmo de **Árvore de Decisão (Decision Tree)** para prever a
 O modelo identificou que **Sexo**, **Classe** e **Idade** foram os fatores determinantes.
 
 ![Score Kaggle](kaggle_score.png)
-*(Adicione o print do seu score aqui)*
 
 ## 🛠️ Tecnologias
 - Python 3.13
